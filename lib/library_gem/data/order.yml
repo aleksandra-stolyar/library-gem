@@ -1,0 +1,43 @@
+- book: "Little Prince"
+  reader: John
+  date: 23.04.1997
+
+- book: "Winnie the Pooh"
+  reader: John
+  date: 09.07.2000
+
+- book: "Cat"
+  reader: Eve
+  date: 23.12.2004
+
+- book: "Cat"
+  reader: Kitty
+  date: 29.11.2015
+
+- book: "Winnie the Pooh"
+  reader: Eve
+  date: 21.01.2009
+
+- book: "Little Prince"
+  reader: BigWolf
+  date: 23.03.2010  
+
+- book: "Little Prince"
+  reader: BigWolf
+  date: 23.03.2010  
+
+- book: "Winnie the Pooh"
+  reader: Karmak
+  date: 10.04.2013 
+
+- book: "Winnie the Pooh"
+  reader: Karmak
+  date: 10.04.2013 
+
+- book: "Cat"
+  reader: Karmak
+  date: 16.07.2014
+
+- book: "Winnie the Pooh"
+  reader: BigWolf
+  date: 15.02.2015   

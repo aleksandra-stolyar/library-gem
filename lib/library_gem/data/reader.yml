@@ -1,0 +1,35 @@
+- name: Tommi
+  email: tommi@gmail.com
+  city: NewYork
+  street: 1ave
+  house: 34
+
+- name: John
+  email: john@gmail.com
+  city: Zaporija
+  street: Lomana
+  house: 29
+
+- name: Eve
+  email: eve@gmail.com
+  city: Kyiv
+  street: Zelena
+  house: 76
+
+- name: Kitty
+  email: kitty@gmail.com
+  city: Paris
+  street: Snow
+  house: 82a
+
+- name: BigWolf
+  email: biggy@gmail.com
+  city: Dnipro
+  street: Televisionna
+  house: 42
+
+- name: Karmak
+  email: karmak@gmail.com
+  city: Kanzas
+  street: Gagarina
+  house: 1
