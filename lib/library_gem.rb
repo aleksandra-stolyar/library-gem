@@ -1,8 +1,8 @@
 require "library_gem/version"
-require 'library_gem/author'
-require 'library_gem/order'
-require 'library_gem/book'
-require 'library_gem/reader'
+require "library_gem/author"
+require "library_gem/order"
+require "library_gem/book"
+require "library_gem/reader"
 
 class Library  
   class << self
