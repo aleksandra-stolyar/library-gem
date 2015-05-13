@@ -16,10 +16,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install library_gem-0.1.0.gem
-
 ## Usage
 
 TODO: Write usage instructions here
