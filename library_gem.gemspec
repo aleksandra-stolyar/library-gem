@@ -5,13 +5,15 @@ require 'library_gem/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "library_gem"
-  spec.version       = LibraryGem::VERSION
+  spec.version       = '0.1.0'
+  spec.licenses         = ['MIT']
   spec.authors       = ["Aleksandra"]
   spec.email         = ["aleksandra.stolyar@gmail.com"]
 
-  # spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{Working with library data.}
-  spec.homepage      = "https://github.com/aleksandra-stolyar/library-gem"
+  spec.summary       = "Working with library data."
+  spec.description   = "Searching for basic analitics of popular books."
+  spec.files            = ["lib/library_gem.rb"]
+  spec.homepage      = "https://github.com/aleksandra-stolyar/library-gem.git"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
