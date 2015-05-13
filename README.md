@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'library_gem'
+gem "library_gem", :git => "https://github.com/aleksandra-stolyar/library-gem.git"
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install library_gem
+    $ gem install library_gem-0.1.0.gem
 
 ## Usage
 
